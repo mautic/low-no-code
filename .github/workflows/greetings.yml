@@ -1,0 +1,37 @@
+name: Greetings
+
+on:
+  pull_request:
+    types:
+      - opened
+  issues:
+    types:
+      - opened
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  greeting:
+    name: Greet First-Time Contributors
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/first-interaction@v3
+        with:
+          issue-message: |
+            # First issue 🎉
+
+            👋 **Welcome and thanks for opening your first issue!**
+
+            A maintainer will review this issue shortly. If you'd like to work on this issue, please leave a comment and tag the `@mautic/education-team-leaders`.
+          pr-message: |
+            # First pull request 🙌 
+
+            🎉 **Congratulations on opening your first PR!** 🎉
+
+            Thank you for taking the time to improve Mautic. We truly appreciate it!
+
+            Welcome to the Mautic Community!
