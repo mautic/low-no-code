@@ -1,0 +1,31 @@
+name: ✨ Low- and No-Code Task
+description: Suggest a task for low- or no-code.
+title: "[SUBJECT]:"
+labels: ["needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the Mautic through low- and no-code contribution! Please fill out the details below.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe the task.
+      placeholder: "e.g., Write content for a blog post about [subject]."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: willingness-to-pr
+    attributes:
+      label: Are you willing to help us work on the task and make a pull request?
+      description: Contributing a pull request is the fastest way to get this done.
+      options:
+        - "— Select an option —"
+        - "No"
+        - "Yes"
+        - "Yes, but I need help"
+    validations:
+      required: true
