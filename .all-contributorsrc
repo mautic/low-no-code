@@ -34,6 +34,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "erioldoesdesign",
+      "name": "Eriol Fox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11681324?v=4",
+      "profile": "https://erioldoesdesign.github.io/",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
