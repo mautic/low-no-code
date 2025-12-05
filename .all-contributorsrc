@@ -61,6 +61,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "Taylor002",
+      "name": "Kadri Adekunle Mayowa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43005365?v=4",
+      "profile": "https://github.com/Taylor002",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
