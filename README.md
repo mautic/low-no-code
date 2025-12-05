@@ -1,6 +1,6 @@
 # Welcome to Mautic!
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is a repo for people who contribute no-code tasks to log their activity, so that their contributions can be recognised, and for no-code tasks to be raised as issues.
 
@@ -22,6 +22,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://erioldoesdesign.github.io/"><img src="https://avatars.githubusercontent.com/u/11681324?v=4?s=100" width="100px;" alt="Eriol Fox"/><br /><sub><b>Eriol Fox</b></sub></a><br /><a href="#design-erioldoesdesign" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://confy-portfolio.netlify.app/"><img src="https://avatars.githubusercontent.com/u/49161448?v=4?s=100" width="100px;" alt="Chidi Confidence"/><br /><sub><b>Chidi Confidence</b></sub></a><br /><a href="https://github.com/mautic/low-no-code/commits?author=sirconfy" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.rahulshinde.name"><img src="https://avatars.githubusercontent.com/u/1046788?v=4?s=100" width="100px;" alt="Rahul Shinde"/><br /><sub><b>Rahul Shinde</b></sub></a><br /><a href="https://github.com/mautic/low-no-code/pulls?q=is%3Apr+reviewed-by%3Ashinde-rahul" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Taylor002"><img src="https://avatars.githubusercontent.com/u/43005365?v=4?s=100" width="100px;" alt="Kadri Adekunle Mayowa"/><br /><sub><b>Kadri Adekunle Mayowa</b></sub></a><br /><a href="#design-Taylor002" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
