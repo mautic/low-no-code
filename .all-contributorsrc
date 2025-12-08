@@ -14,7 +14,8 @@
       "profile": "https://adiati.com",
       "contributions": [
         "review",
-        "doc"
+        "doc",
+        "video"
       ]
     },
     {
@@ -42,6 +43,51 @@
       "profile": "https://erioldoesdesign.github.io/",
       "contributions": [
         "design"
+      ]
+    },
+    {
+      "login": "sirconfy",
+      "name": "Chidi Confidence",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49161448?v=4",
+      "profile": "https://confy-portfolio.netlify.app/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "shinde-rahul",
+      "name": "Rahul Shinde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1046788?v=4",
+      "profile": "https://www.rahulshinde.name",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "Taylor002",
+      "name": "Kadri Adekunle Mayowa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43005365?v=4",
+      "profile": "https://github.com/Taylor002",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "oladejioluwaseun",
+      "name": "Oladeji Oluwaseun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72356179?v=4",
+      "profile": "https://github.com/oladejioluwaseun",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "grachiyoung1",
+      "name": "Grace Chibueze ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145173034?v=4",
+      "profile": "https://github.com/grachiyoung1",
+      "contributions": [
+        "blog"
       ]
     }
   ],
