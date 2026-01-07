@@ -89,6 +89,15 @@
       "contributions": [
         "blog"
       ]
+    },
+    {
+      "login": "doubleohkevin",
+      "name": "doubleohkevin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58649257?v=4",
+      "profile": "https://github.com/doubleohkevin",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
