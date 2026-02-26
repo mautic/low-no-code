@@ -1,6 +1,6 @@
 # Welcome to Mautic!
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is a repo for people who contribute no-code tasks to log their activity, so that their contributions can be recognised, and for no-code tasks to be raised as issues.
 
@@ -28,6 +28,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/oladejioluwaseun"><img src="https://avatars.githubusercontent.com/u/72356179?v=4?s=100" width="100px;" alt="Oladeji Oluwaseun"/><br /><sub><b>Oladeji Oluwaseun</b></sub></a><br /><a href="https://github.com/mautic/low-no-code/commits?author=oladejioluwaseun" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/grachiyoung1"><img src="https://avatars.githubusercontent.com/u/145173034?v=4?s=100" width="100px;" alt="Grace Chibueze "/><br /><sub><b>Grace Chibueze </b></sub></a><br /><a href="#blog-grachiyoung1" title="Blogposts">📝</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/doubleohkevin"><img src="https://avatars.githubusercontent.com/u/58649257?v=4?s=100" width="100px;" alt="doubleohkevin"/><br /><sub><b>doubleohkevin</b></sub></a><br /><a href="https://github.com/mautic/low-no-code/commits?author=doubleohkevin" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.abdultalha.tech/"><img src="https://avatars.githubusercontent.com/u/128897379?v=4?s=100" width="100px;" alt="Abdul Talha"/><br /><sub><b>Abdul Talha</b></sub></a><br /><a href="#translation-abdultalha0862" title="Translation">🌍</a></td>
     </tr>
   </tbody>
 </table>
