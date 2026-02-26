@@ -98,6 +98,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "abdultalha0862",
+      "name": "Abdul Talha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128897379?v=4",
+      "profile": "https://www.abdultalha.tech/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
